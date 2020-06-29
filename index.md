@@ -8,7 +8,10 @@ Ihre konsequent rationale Argumentation führt öfter zu komischen Situationen, 
 * hochintelligent
 * arbeitet am Jeffersonian Institute 
 * isst lieber Trockenobst statt Schokolade 
-* glaubt nicht an die Liebe sondern nur an chemische Reaktionen im Körper
 * mutig und absolut loyal ihren Freunden gegenüber
-* (fast) immer Beifahrerin, wen sie im Auto mit ihrem Partner Special Agent Seeley Booth unterwegs ist
+* (fast) immer Beifahrerin, wenn sie im Auto mit ihrem Partner Special Agent Seeley Booth unterwegs ist
 * kann Karate
+
+> Ich glaube nicht an die Liebe ... ich glaube, dass Dopamin und Noradrenalin 
+> eine Euphorie aufgrund bestimmter biologischer Auslöser simulieren, wie Geruch, 
+> symmetrische Gesichtszüge ..."
